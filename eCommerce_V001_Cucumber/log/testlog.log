@@ -1,0 +1,1442 @@
+2024-10-25 20:29:06,358 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:06,477 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:07,979 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 20:29:08,159 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 20:29:08,848 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 20:29:11,312 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:11,316 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:12,894 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 20:29:16,694 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-25 20:29:17,570 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-25 20:29:17,750 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-25 20:29:18,029 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-25 20:29:18,525 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-25 20:29:18,640 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-25 20:29:20,375 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:20,376 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:21,925 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-25 20:29:22,302 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-25 20:29:22,571 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-25 20:29:24,052 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:24,053 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:25,016 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-25 20:29:25,368 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-25 20:29:27,585 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-25 20:29:28,960 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 20:29:29,053 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 20:29:30,230 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 20:29:30,332 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 20:29:31,287 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-25 20:29:32,977 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-25 20:29:34,466 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:34,470 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:35,999 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 20:29:36,000 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-25 20:29:37,169 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 20:29:37,275 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-25 20:29:41,451 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:41,455 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:43,455 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 20:29:43,457 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-25 20:29:44,481 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 20:29:46,925 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:46,927 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:48,516 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 20:29:48,518 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-25 20:29:49,686 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 20:29:51,145 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:29:51,146 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:29:52,664 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:29:52,977 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-25 20:29:54,187 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:29:55,329 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-25 20:29:55,537 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-25 20:29:56,386 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-25 20:29:56,490 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-25 20:30:02,200 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:30:02,201 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:30:03,738 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:30:04,077 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-25 20:30:05,184 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-25 20:30:07,528 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:30:07,530 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:30:08,879 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:30:10,127 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-25 20:30:10,230 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-25 20:37:48,944 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:37:48,975 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:37:50,488 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 20:37:50,732 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 20:37:51,520 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 20:37:53,129 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:37:53,131 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:37:54,441 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 20:37:58,657 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-25 20:37:59,505 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-25 20:37:59,692 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-25 20:37:59,959 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-25 20:38:00,440 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-25 20:38:00,550 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-25 20:38:02,228 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:02,230 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:03,579 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-25 20:38:03,825 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-25 20:38:04,070 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-25 20:38:05,371 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:05,373 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:06,742 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-25 20:38:06,920 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-25 20:38:08,913 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-25 20:38:10,374 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 20:38:10,421 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 20:38:10,756 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 20:38:11,613 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 20:38:12,534 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-25 20:38:14,262 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-25 20:38:15,750 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:15,753 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:17,676 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 20:38:17,677 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-25 20:38:18,942 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 20:38:19,057 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-25 20:38:23,331 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:23,333 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:25,070 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 20:38:25,071 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-25 20:38:26,049 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 20:38:28,355 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:28,359 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:29,850 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 20:38:29,851 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-25 20:38:30,971 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 20:38:32,296 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:32,298 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:33,440 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:38:33,560 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-25 20:38:34,631 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:38:35,808 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-25 20:38:35,911 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-25 20:38:36,741 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-25 20:38:36,848 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-25 20:38:41,205 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:41,210 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:42,600 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:38:42,781 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-25 20:38:43,692 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-25 20:38:45,964 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 20:38:45,965 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 20:38:47,636 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 20:38:48,840 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-25 20:38:48,921 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-25 21:09:32,380 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:09:32,410 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:09:33,967 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 21:09:34,233 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 21:09:35,045 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 21:09:36,625 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:09:36,627 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:09:38,011 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 21:09:40,133 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:09:40,134 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:09:41,797 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-25 21:09:42,014 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-25 21:09:42,167 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-25 21:09:43,472 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:09:43,475 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:09:46,090 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-25 21:09:46,253 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-25 21:09:49,041 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-25 21:09:50,553 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 21:09:50,593 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 21:09:50,982 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 21:09:52,114 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 21:09:53,288 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-25 21:13:16,319 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:16,349 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:17,871 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 21:13:18,134 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 21:13:18,914 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 21:13:20,376 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:20,378 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:21,728 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 21:13:25,594 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-25 21:13:26,478 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-25 21:13:26,643 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-25 21:13:26,923 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-25 21:13:27,392 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-25 21:13:27,504 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-25 21:13:29,074 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:29,076 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:30,596 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-25 21:13:30,848 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-25 21:13:31,125 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-25 21:13:32,393 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:32,395 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:33,597 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-25 21:13:33,715 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-25 21:13:35,748 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-25 21:13:37,064 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 21:13:37,115 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 21:13:38,534 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 21:13:38,603 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 21:13:39,565 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-25 21:13:41,259 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-25 21:13:42,461 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:42,462 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:43,883 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:13:43,885 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-25 21:13:45,064 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:13:45,207 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-25 21:13:48,792 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:48,795 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:50,493 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:13:50,494 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-25 21:13:51,497 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:13:53,784 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:53,785 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:55,244 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:13:55,248 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-25 21:13:56,421 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:13:57,696 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:13:57,696 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:13:58,877 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:13:58,990 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-25 21:14:00,178 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:14:01,354 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-25 21:14:01,499 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-25 21:14:02,282 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-25 21:14:02,360 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-25 21:14:06,281 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:14:06,285 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:14:07,438 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:14:07,539 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-25 21:14:08,539 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-25 21:14:10,998 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:14:11,000 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:14:12,194 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:14:13,286 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-25 21:14:13,511 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-25 21:34:55,403 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:34:55,453 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:34:57,183 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 21:34:57,405 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 21:34:58,515 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 21:35:00,783 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:00,786 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:02,103 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 21:35:06,283 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-25 21:35:07,266 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-25 21:35:07,495 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-25 21:35:07,840 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-25 21:35:08,262 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-25 21:35:08,400 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-25 21:35:10,116 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:10,118 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:11,621 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-25 21:35:11,847 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-25 21:35:12,159 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-25 21:35:13,860 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:13,862 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:15,207 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-25 21:35:15,438 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-25 21:35:17,642 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-25 21:35:19,026 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 21:35:19,087 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 21:35:20,470 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 21:35:20,515 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 21:35:21,605 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-25 21:35:23,359 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-25 21:35:24,769 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:24,771 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:26,283 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:35:26,286 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-25 21:35:27,409 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:35:27,691 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-25 21:35:31,647 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:31,651 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:33,605 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:35:33,606 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-25 21:35:34,638 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:35:36,940 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:36,941 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:39,711 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:35:39,712 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-25 21:35:40,626 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:35:42,022 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:42,023 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:43,573 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:35:43,785 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-25 21:35:44,868 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:35:46,016 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-25 21:35:46,114 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-25 21:35:46,914 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-25 21:35:47,011 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-25 21:35:50,572 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:50,576 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:52,168 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:35:52,340 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-25 21:35:53,414 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-25 21:35:55,894 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:35:55,896 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:35:58,119 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:35:59,717 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-25 21:35:59,826 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-25 21:40:28,512 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:40:28,559 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:40:30,362 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 21:40:30,601 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 21:40:31,366 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 21:40:33,212 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:40:33,214 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:40:35,061 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 21:40:39,266 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-25 21:40:40,232 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-25 21:40:40,422 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-25 21:40:40,716 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-25 21:40:41,207 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-25 21:40:41,352 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-25 21:40:43,052 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:40:43,072 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:40:45,461 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:40:45,463 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:40:47,803 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 21:40:47,847 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 21:40:49,013 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 21:40:49,052 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 21:44:37,214 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:44:37,254 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:44:38,954 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 21:44:39,297 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 21:44:40,209 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 21:44:41,897 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:44:41,900 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:49:37,135 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:49:37,167 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:49:38,888 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 21:49:39,138 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 21:49:40,067 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 21:49:41,625 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:49:41,627 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:49:42,975 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 21:49:46,829 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-25 21:49:48,367 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-25 21:49:48,534 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-25 21:49:48,819 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-25 21:49:49,308 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-25 21:49:49,429 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-25 21:49:51,011 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:49:51,013 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:49:52,453 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-25 21:49:52,671 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-25 21:49:52,886 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-25 21:49:54,110 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:49:54,111 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:49:55,881 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-25 21:49:56,081 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-25 21:49:58,159 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-25 21:49:59,509 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 21:49:59,567 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 21:50:00,740 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 21:50:00,790 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 21:50:02,140 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-25 21:50:03,878 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-25 21:50:05,247 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:50:05,249 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:50:06,639 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:50:06,639 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-25 21:50:07,832 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:50:07,981 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-25 21:50:11,905 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:50:11,909 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:50:14,624 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:50:14,625 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-25 21:50:15,446 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:50:17,811 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:50:17,812 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:50:19,474 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:50:19,474 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-25 21:50:20,485 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:50:21,831 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:50:21,832 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:50:23,435 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:50:23,815 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-25 21:50:24,754 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:50:25,876 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-25 21:50:26,027 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-25 21:50:26,813 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-25 21:50:26,889 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-25 21:50:30,459 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:50:30,461 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:50:32,498 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:50:32,610 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-25 21:50:33,651 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-25 21:50:35,991 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:50:35,993 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:50:37,273 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:50:38,498 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-25 21:50:38,707 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-25 21:55:59,978 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:00,009 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:02,805 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:02,807 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:16,914 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:16,945 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:18,554 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-25 21:56:18,788 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-25 21:56:19,728 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-25 21:56:21,279 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:21,280 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:23,777 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-25 21:56:27,525 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-25 21:56:28,365 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-25 21:56:28,566 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-25 21:56:28,875 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-25 21:56:29,370 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-25 21:56:29,505 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-25 21:56:31,199 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:31,200 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:32,804 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-25 21:56:33,094 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-25 21:56:33,351 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-25 21:56:34,714 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:34,716 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:36,259 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-25 21:56:36,502 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-25 21:56:38,651 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-25 21:56:39,998 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-25 21:56:40,069 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-25 21:56:41,309 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-25 21:56:41,401 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-25 21:56:42,360 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-25 21:56:43,972 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-25 21:56:45,507 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:45,508 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:47,086 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:56:47,087 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-25 21:56:48,079 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:56:48,174 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-25 21:56:52,353 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:52,355 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:53,844 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:56:53,845 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-25 21:56:55,104 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:56:57,371 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:56:57,372 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:56:59,174 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-25 21:56:59,175 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-25 21:57:00,366 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-25 21:57:01,720 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:57:01,722 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:57:03,191 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:57:03,355 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-25 21:57:04,331 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:57:05,435 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-25 21:57:05,527 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-25 21:57:06,368 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-25 21:57:06,447 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-25 21:57:11,278 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:57:11,280 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:57:12,475 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:57:12,627 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-25 21:57:13,582 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-25 21:57:15,904 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-25 21:57:15,906 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-25 21:57:17,039 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-25 21:57:18,236 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-25 21:57:18,383 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-26 12:46:13,846 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:46:13,879 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:46:15,628 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-26 12:46:15,922 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-26 12:46:16,840 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-26 12:46:19,745 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:46:19,747 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:46:21,458 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-26 12:46:26,467 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-26 12:46:27,429 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-26 12:46:27,737 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-26 12:46:28,056 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-26 12:46:29,083 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-26 12:46:29,270 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-26 12:46:32,333 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:46:32,334 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:46:33,935 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-26 12:46:34,111 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-26 12:46:34,339 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-26 12:46:35,634 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:46:35,636 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:46:36,523 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-26 12:46:36,685 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-26 12:46:39,838 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-26 12:46:41,827 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-26 12:46:41,888 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-26 12:46:42,464 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-26 12:46:43,665 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-26 12:46:45,488 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-26 12:46:47,380 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-26 12:46:49,042 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:46:49,044 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:46:50,848 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 12:46:50,849 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-26 12:46:52,355 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 12:46:52,484 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-26 12:46:57,354 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:46:57,357 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:46:59,196 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 12:46:59,198 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-26 12:47:00,338 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 12:47:02,692 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:47:02,693 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:47:04,516 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 12:47:04,517 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-26 12:47:05,709 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 12:47:07,259 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:47:07,260 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:47:10,033 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 12:47:10,315 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-26 12:47:11,440 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 12:47:12,590 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-26 12:47:12,713 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-26 12:47:13,521 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-26 12:47:13,665 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-26 12:47:17,288 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:47:17,290 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:47:18,724 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 12:47:18,960 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-26 12:47:20,273 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-26 12:47:22,751 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 12:47:22,753 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 12:47:24,256 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 12:47:25,442 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-26 12:47:25,529 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-26 13:03:09,280 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:09,315 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:11,050 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-26 13:03:11,240 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-26 13:03:12,168 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-26 13:03:14,195 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:14,198 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:15,523 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-26 13:03:19,569 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-26 13:03:20,964 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-26 13:03:21,107 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-26 13:03:21,411 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-26 13:03:21,976 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-26 13:03:22,159 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-26 13:03:23,791 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:23,793 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:25,456 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-26 13:03:25,683 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-26 13:03:25,942 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-26 13:03:27,345 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:27,346 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:28,351 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-26 13:03:28,589 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-26 13:03:30,734 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-26 13:03:32,169 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-26 13:03:32,240 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-26 13:03:33,466 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-26 13:03:33,507 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-26 13:03:35,212 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-26 13:03:37,956 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-26 13:03:39,883 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:39,884 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:41,632 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:03:41,633 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-26 13:03:42,697 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:03:42,789 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-26 13:03:46,611 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:46,614 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:48,306 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:03:48,307 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-26 13:03:49,592 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:03:51,990 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:51,992 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:53,706 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:03:53,707 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-26 13:03:54,751 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:03:56,262 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:03:56,262 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:03:57,573 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:03:57,681 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-26 13:03:58,875 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:04:00,048 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-26 13:04:00,151 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-26 13:04:00,918 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-26 13:04:00,997 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-26 13:04:05,361 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:04:05,369 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:04:07,940 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:04:08,169 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-26 13:04:09,021 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-26 13:04:11,418 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:04:11,419 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:04:12,970 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:04:14,114 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-26 13:04:14,237 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-26 13:07:30,621 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:07:30,653 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:07:33,390 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:07:33,399 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-26 13:07:34,401 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:07:34,619 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-26 13:07:38,081 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:07:38,082 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:07:39,059 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:07:39,182 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-26 13:07:40,245 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:07:41,479 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-26 13:07:41,662 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-26 13:07:42,452 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-26 13:07:42,580 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-26 13:08:36,111 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:08:36,139 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:08:37,992 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:08:37,997 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-26 13:08:38,999 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:08:41,475 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:08:41,477 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:08:43,149 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:08:43,150 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-26 13:08:44,310 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:50:29,460 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:50:29,582 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:50:31,255 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-26 13:50:31,521 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-26 13:50:32,252 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-26 13:50:33,735 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:50:33,737 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:50:35,255 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-26 13:50:39,146 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-26 13:50:40,151 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-26 13:50:40,319 - eCommerce_v001 -INFO - ******* Screenshot Captured For Placing The Order*********
+2024-10-26 13:50:40,588 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-26 13:50:41,146 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-26 13:50:41,319 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-26 13:50:42,958 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:50:42,961 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:50:44,198 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-26 13:50:44,457 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-26 13:50:44,729 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-26 13:50:46,168 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:50:46,171 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:50:47,317 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-26 13:50:47,587 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-26 13:50:49,708 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-26 13:50:51,035 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-26 13:50:51,105 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-26 13:50:52,509 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-26 13:50:52,584 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-26 13:50:53,572 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-26 13:50:55,225 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-26 13:50:56,754 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:50:56,756 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:50:57,810 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:50:57,811 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-26 13:50:58,946 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:50:59,093 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-26 13:51:02,713 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:51:02,719 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:51:04,498 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:51:04,499 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-26 13:51:05,590 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:51:07,976 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:51:07,977 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:51:09,846 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 13:51:09,847 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-26 13:51:10,890 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 13:51:12,363 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:51:12,364 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:51:13,938 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:51:14,186 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-26 13:51:15,169 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:51:16,375 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-26 13:51:16,478 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-26 13:51:17,275 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-26 13:51:17,363 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-26 13:51:21,348 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:51:21,349 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:51:22,427 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:51:22,549 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-26 13:51:23,492 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-26 13:51:25,984 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 13:51:25,986 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 13:51:28,820 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 13:51:29,818 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-26 13:51:29,956 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-26 14:11:50,215 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:11:50,250 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:11:52,241 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-26 14:11:52,503 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-26 14:11:53,211 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-26 14:11:55,006 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:11:55,007 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:11:56,430 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-26 14:12:00,335 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-26 14:12:01,270 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-26 14:12:01,474 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-26 14:12:02,444 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-26 14:12:02,574 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-26 14:12:04,161 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:04,165 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:05,682 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-26 14:12:05,907 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-26 14:12:06,120 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-26 14:12:07,490 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:07,491 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:09,034 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-26 14:12:09,255 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-26 14:12:11,198 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-26 14:12:12,560 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-26 14:12:12,609 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-26 14:12:13,949 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-26 14:12:13,993 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-26 14:12:14,928 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-26 14:12:16,867 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-26 14:12:18,315 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:18,317 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:19,848 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 14:12:19,850 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-26 14:12:20,971 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 14:12:21,100 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-26 14:12:25,353 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:25,365 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:26,366 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 14:12:26,366 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-26 14:12:27,541 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 14:12:29,899 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:29,899 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:31,461 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 14:12:31,463 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-26 14:12:32,577 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 14:12:33,944 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:33,946 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:35,086 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:12:35,349 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-26 14:12:36,374 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:12:37,528 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-26 14:12:37,690 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-26 14:12:38,531 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-26 14:12:38,623 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-26 14:12:43,146 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:43,149 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:44,601 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:12:44,836 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-26 14:12:45,761 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-26 14:12:48,190 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:12:48,191 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:12:49,159 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:12:50,434 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-26 14:12:50,607 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-26 14:13:46,406 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:13:46,437 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:13:49,598 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-26 14:13:49,856 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-26 14:13:50,685 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-26 14:13:52,370 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:13:52,372 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:13:53,765 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-26 14:13:57,601 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-26 14:13:59,017 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-26 14:13:59,207 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-26 14:14:00,205 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-26 14:14:00,339 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-26 14:14:01,988 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:01,992 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:03,547 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-26 14:14:03,767 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-26 14:14:03,966 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-26 14:14:05,283 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:05,286 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:06,697 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-26 14:14:06,896 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-26 14:14:08,891 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-26 14:14:10,251 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-26 14:14:10,307 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-26 14:14:11,618 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-26 14:14:11,660 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-26 14:14:13,037 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-26 14:14:14,717 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-26 14:14:16,090 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:16,092 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:17,600 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 14:14:17,601 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-26 14:14:18,572 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 14:14:18,790 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-26 14:14:22,134 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:22,137 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:23,840 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 14:14:23,841 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-26 14:14:24,871 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 14:14:27,254 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:27,255 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:28,680 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-26 14:14:28,682 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-26 14:14:29,849 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-26 14:14:31,269 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:31,271 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:32,694 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:14:32,892 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-26 14:14:33,851 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:14:34,973 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-26 14:14:35,088 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-26 14:14:35,855 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-26 14:14:35,941 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-26 14:14:40,524 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:40,526 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:41,557 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:14:41,751 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-26 14:14:42,810 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-26 14:14:45,113 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-26 14:14:45,114 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-26 14:14:46,588 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-26 14:14:47,728 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-26 14:14:47,873 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 17:03:43,538 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:03:43,573 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:03:45,674 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 17:03:46,292 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 17:03:48,273 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 17:03:52,010 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:03:52,025 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:03:54,172 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:03:58,652 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:03:58,658 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:04:00,105 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 17:04:00,563 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 17:04:01,293 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 17:04:05,606 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:04:05,616 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:04:09,136 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 17:04:10,411 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 17:04:17,571 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 17:04:17,677 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 17:04:18,437 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 17:04:20,853 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:04:20,857 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:04:22,911 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:04:22,927 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:04:24,958 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:04:24,959 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 17:04:56,563 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:04:56,565 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:04:58,622 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:04:58,699 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 17:05:30,512 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:05:30,515 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:05:32,222 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:06:04,109 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:06:04,118 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:06:08,148 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:06:08,150 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:11:16,571 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:11:16,619 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:11:19,116 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 17:11:19,426 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 17:11:20,622 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 17:11:24,054 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:11:24,065 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:11:26,482 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:11:30,614 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 17:11:31,626 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 17:11:31,978 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 17:11:34,043 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 17:11:34,353 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 17:12:09,084 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:12:09,104 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:12:10,907 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 17:12:11,227 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 17:12:11,552 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 17:12:13,546 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:12:13,551 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:12:15,045 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 17:12:15,366 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 17:12:20,168 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 17:12:22,503 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 17:12:22,571 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 17:12:23,296 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 17:12:24,995 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 17:12:26,352 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 17:12:28,380 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 17:12:30,822 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:12:30,829 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:12:34,772 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:12:34,779 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 17:12:36,224 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:12:36,541 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 17:12:41,937 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:12:41,943 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:12:44,828 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:12:44,831 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 17:12:46,169 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:12:49,229 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:12:49,234 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:12:51,943 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:12:51,945 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 17:12:53,558 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:12:55,594 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:12:55,604 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:12:57,077 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:12:57,375 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 17:12:58,703 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:12:59,975 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 17:13:00,200 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 17:13:01,426 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 17:13:01,573 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 17:13:08,337 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:13:08,341 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:13:10,724 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:13:10,999 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 17:13:12,393 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 17:13:17,918 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:13:17,928 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:13:19,352 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:13:21,079 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 17:13:21,233 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 17:14:26,885 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:14:27,118 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:14:29,233 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 17:14:29,640 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 17:14:30,686 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 17:14:32,945 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:14:32,947 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:14:34,771 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:14:39,484 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 17:14:40,508 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 17:14:40,808 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 17:14:42,561 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 17:14:42,917 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 17:14:45,938 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:14:45,948 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:14:47,758 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 17:14:48,068 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 17:14:48,485 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 17:14:50,474 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:14:50,476 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:14:52,884 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 17:14:53,243 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 17:14:56,329 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 17:14:58,449 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 17:14:58,573 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 17:15:00,776 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 17:15:00,886 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 17:15:02,496 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 17:15:04,505 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 17:15:06,785 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:15:06,787 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:15:08,965 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:15:08,966 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 17:15:10,301 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:15:10,508 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 17:15:15,095 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:15:15,097 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:15:18,023 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:15:18,023 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 17:15:19,380 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:15:22,292 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:15:22,293 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:15:25,119 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:15:25,120 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 17:15:26,376 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:15:28,667 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:15:28,668 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:15:30,635 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:15:31,083 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 17:15:32,242 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:15:33,423 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 17:15:33,622 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 17:15:34,732 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 17:15:34,972 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 17:15:40,687 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:15:40,709 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:15:43,457 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:15:43,759 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 17:15:45,129 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 17:15:48,105 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:15:48,106 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:15:50,039 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:15:51,643 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 17:15:51,958 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 17:16:27,962 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:16:27,996 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:16:31,531 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 17:16:31,855 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 17:16:32,671 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 17:16:35,220 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:16:35,224 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:16:37,547 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:16:40,267 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:16:40,277 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:16:42,514 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 17:16:42,893 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 17:16:43,321 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 17:16:45,179 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:16:45,186 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:16:46,853 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 17:16:47,781 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 17:16:53,663 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 17:16:56,842 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 17:16:56,951 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 17:16:58,750 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 17:16:58,902 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 17:17:00,362 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 17:17:02,097 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 17:17:04,465 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:17:04,469 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:17:08,142 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:17:08,146 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 17:17:09,666 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:17:09,907 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 17:17:15,023 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:17:15,030 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:17:16,850 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:17:16,851 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 17:17:18,238 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:17:23,087 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:17:23,087 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:17:24,984 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:17:24,986 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 17:17:26,768 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:17:29,166 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:17:29,169 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:17:30,533 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:17:30,907 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 17:17:32,278 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:17:33,695 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 17:17:33,974 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 17:17:35,152 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 17:17:35,312 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 17:17:41,093 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:17:41,101 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:17:43,514 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:17:43,824 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 17:17:44,947 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 17:17:48,136 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:17:48,138 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:17:49,537 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:17:51,062 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 17:17:51,257 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 17:27:54,992 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:27:55,141 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:27:57,069 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:28:01,323 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 17:28:02,920 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 17:28:03,187 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 17:28:04,981 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 17:28:05,317 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 17:32:55,692 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:32:55,732 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:32:57,855 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:33:01,832 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 17:33:02,816 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 17:33:03,129 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 17:33:04,773 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 17:33:05,070 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 17:49:45,704 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:49:45,742 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:49:47,328 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 17:49:47,592 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 17:49:48,460 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 17:49:50,777 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:49:50,781 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:49:51,912 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:49:56,230 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 17:49:57,467 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 17:49:57,613 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 17:49:58,693 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 17:49:58,811 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 17:50:00,593 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:00,595 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:01,878 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 17:50:02,108 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 17:50:02,275 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 17:50:03,620 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:03,622 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:04,989 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 17:50:05,207 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 17:50:07,709 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 17:50:09,415 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 17:50:09,480 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 17:50:10,775 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 17:50:10,836 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 17:50:12,181 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 17:50:13,890 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 17:50:15,290 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:15,293 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:16,647 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:50:16,647 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 17:50:17,871 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:50:18,033 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 17:50:22,111 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:22,118 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:24,413 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:50:24,413 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 17:50:25,505 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:50:28,081 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:28,082 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:29,590 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:50:29,591 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 17:50:30,610 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:50:32,044 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:32,046 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:33,277 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:50:33,547 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 17:50:34,494 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:50:35,778 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 17:50:36,077 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 17:50:37,020 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 17:50:37,135 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 17:50:41,549 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:41,551 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:43,043 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:50:43,217 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 17:50:44,350 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 17:50:46,712 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:50:46,714 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:50:48,217 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:50:49,555 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 17:50:49,655 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 17:54:48,505 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:54:48,537 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:54:51,265 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 17:54:51,497 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 17:54:52,360 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 17:54:54,150 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:54:54,152 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:54:55,880 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 17:55:00,595 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 17:55:01,493 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 17:55:01,665 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 17:55:02,770 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 17:55:02,888 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 17:55:04,610 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:04,612 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:05,918 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 17:55:06,058 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 17:55:06,263 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 17:55:07,637 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:07,639 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:08,721 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 17:55:08,907 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 17:55:11,215 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 17:55:12,636 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 17:55:12,719 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 17:55:13,272 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 17:55:14,044 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 17:55:15,090 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 17:55:16,794 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 17:55:18,355 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:18,357 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:19,966 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:55:19,972 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 17:55:21,066 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:55:21,163 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 17:55:25,515 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:25,518 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:27,278 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:55:27,280 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 17:55:28,344 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:55:30,843 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:30,846 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:33,435 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 17:55:33,437 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 17:55:34,389 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 17:55:35,796 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:35,798 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:37,478 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:55:37,728 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 17:55:38,902 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:55:40,088 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 17:55:40,221 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 17:55:41,198 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 17:55:41,324 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 17:55:45,503 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:45,504 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:46,971 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:55:47,150 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 17:55:48,148 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 17:55:50,556 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 17:55:50,565 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 17:55:51,882 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 17:55:53,164 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 17:55:53,254 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 19:44:12,799 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:44:12,904 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:44:14,303 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 19:44:14,579 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 19:44:15,424 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 19:44:17,056 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:44:17,058 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:44:19,186 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 19:44:23,787 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 19:44:24,978 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 19:44:25,101 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 19:44:26,195 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 19:44:26,310 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 19:44:27,938 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:44:27,940 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:44:29,548 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 19:44:29,885 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 19:44:30,226 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 19:44:31,708 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:44:31,710 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:44:33,320 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 19:44:33,544 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 19:44:36,255 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 19:44:37,706 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 19:44:37,788 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 19:44:41,227 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 19:44:41,318 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 19:44:42,370 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 19:44:44,150 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 19:44:45,796 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:44:45,797 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:44:47,331 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 19:44:47,332 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 19:44:48,476 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 19:44:48,579 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 19:44:52,742 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:44:52,746 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:44:55,318 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 19:44:55,320 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 19:44:56,460 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 19:44:59,346 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:44:59,348 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:45:00,865 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 19:45:00,866 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 19:45:02,007 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 19:45:03,778 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:45:03,779 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:45:05,263 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 19:45:05,519 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 19:45:06,484 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 19:45:08,232 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 19:45:08,416 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 19:45:09,207 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 19:45:09,285 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 19:45:15,049 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:45:15,060 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:45:16,790 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 19:45:17,062 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 19:45:18,027 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 19:45:21,038 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 19:45:21,040 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 19:45:22,501 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 19:45:23,630 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 19:45:23,745 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 20:28:59,374 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:28:59,419 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:01,007 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 20:29:01,276 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 20:29:02,074 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 20:29:03,383 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:03,386 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:04,763 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 20:29:08,657 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 20:29:09,703 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 20:29:09,861 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 20:29:10,838 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 20:29:10,947 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 20:29:12,453 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:12,455 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:13,979 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 20:29:14,103 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 20:29:14,209 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 20:29:15,191 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:15,192 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:16,432 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 20:29:16,552 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 20:29:18,899 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 20:29:21,066 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 20:29:21,118 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 20:29:22,333 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 20:29:22,395 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 20:29:23,873 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 20:29:25,481 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 20:29:26,693 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:26,695 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:28,212 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:29:28,214 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 20:29:29,547 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:29:29,704 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 20:29:33,723 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:33,729 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:35,505 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:29:35,507 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 20:29:36,345 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:29:39,212 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:39,214 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:40,703 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:29:40,707 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 20:29:42,079 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:29:43,456 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:43,458 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:44,936 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:29:45,180 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 20:29:46,091 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:29:47,265 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 20:29:47,448 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 20:29:48,227 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 20:29:48,304 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 20:29:52,358 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:52,360 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:53,872 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:29:54,089 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 20:29:54,937 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 20:29:57,052 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:29:57,053 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:29:58,160 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:29:59,373 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 20:29:59,765 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 20:30:36,359 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:30:36,399 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:30:37,723 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 20:30:37,874 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 20:30:38,764 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 20:30:40,274 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:30:40,277 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:30:41,577 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 20:30:45,861 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 20:30:47,024 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 20:30:47,203 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 20:31:02,543 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 20:31:02,697 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 20:31:05,392 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:31:05,397 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:31:07,255 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:31:07,257 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:31:09,281 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 20:31:09,338 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 20:31:10,474 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 20:31:11,424 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:31:11,426 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:31:13,037 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:31:13,041 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 20:36:46,220 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:36:46,242 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:36:48,088 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 20:36:48,359 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 20:36:49,169 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 20:36:51,428 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:36:51,432 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:36:53,004 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 20:36:56,917 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 20:36:57,753 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 20:36:57,930 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 20:36:59,486 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 20:36:59,614 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 20:37:01,213 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:01,215 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:03,036 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 20:37:03,170 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 20:37:03,294 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 20:37:04,406 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:04,411 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:05,903 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 20:37:06,093 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 20:37:08,546 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 20:37:09,950 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 20:37:10,007 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 20:37:10,560 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 20:37:11,253 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 20:37:12,675 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 20:37:14,345 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 20:37:15,654 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:15,656 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:17,022 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:37:17,028 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 20:37:18,161 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:37:18,315 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 20:37:22,333 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:22,335 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:23,660 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:37:23,662 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 20:37:24,707 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:37:27,051 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:27,054 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:28,466 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:37:28,467 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 20:37:29,690 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:37:31,031 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:31,036 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:32,155 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:37:32,350 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 20:37:33,419 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:37:34,536 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 20:37:34,645 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 20:37:35,515 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 20:37:35,607 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 20:37:39,777 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:39,779 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:41,198 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:37:41,386 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 20:37:42,306 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 20:37:44,530 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:37:44,531 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:37:45,488 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:37:46,720 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 20:37:46,900 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
+2024-10-28 20:39:21,033 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:39:21,070 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:39:22,313 - eCommerce_v001 -INFO - ******* Click On About US  **********
+2024-10-28 20:39:22,557 - eCommerce_v001 -INFO - ******* Click On Play Button **********
+2024-10-28 20:39:23,306 - eCommerce_v001 -INFO - ******* Click On Close Button **********
+2024-10-28 20:39:25,548 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:39:25,554 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:39:27,122 - eCommerce_v001 -INFO - ******* Adding Product To Cart *********
+2024-10-28 20:39:30,754 - eCommerce_v001 -INFO - ******* Product Added To Cart *********
+2024-10-28 20:39:31,921 - eCommerce_v001 -INFO - ******* Click On Place Order*********
+2024-10-28 20:39:32,069 - eCommerce_v001 -INFO - ******* Providing Details To Place Order **********
+2024-10-28 20:39:33,083 - eCommerce_v001 -INFO - ******* Click On Purchase **********
+2024-10-28 20:39:33,210 - eCommerce_v001 -INFO - ******* Finally Order Got Confirmed And Captured Screenshot **********
+2024-10-28 20:39:34,759 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:39:34,765 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:39:36,432 - eCommerce_v001 -INFO - ******* Click On Carousel Next Button *********
+2024-10-28 20:39:36,697 - eCommerce_v001 -INFO - ******* Click On Carousel Previous Button *********
+2024-10-28 20:39:36,868 - eCommerce_v001 -INFO - ******* Closing Browser *********
+2024-10-28 20:39:38,007 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:39:38,009 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:39:39,383 - eCommerce_v001 -INFO - ******* Click On Contact *********
+2024-10-28 20:39:39,618 - eCommerce_v001 -INFO - ******* Enter Email,Name,Message through excel  *********
+2024-10-28 20:39:42,023 - eCommerce_v001 -INFO - ******* Click On SendMessage And Capture Screenshot  *********
+2024-10-28 20:39:43,357 - eCommerce_v001 -INFO - ******* Launching Browser   *********
+2024-10-28 20:39:43,396 - eCommerce_v001 -INFO - ******* Navigating To DemoBlaze Website *********
+2024-10-28 20:39:44,575 - eCommerce_v001 -INFO - ******* Click On HomePage *********
+2024-10-28 20:39:44,645 - eCommerce_v001 -INFO - ******* User Click On Phones *********
+2024-10-28 20:39:46,044 - eCommerce_v001 -INFO - ******* User Click On Laptops *********
+2024-10-28 20:39:47,803 - eCommerce_v001 -INFO - ******* User Click On Monitors *********
+2024-10-28 20:39:49,036 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:39:49,039 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:39:50,657 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:39:50,660 - eCommerce_v001 -INFO - ******* User Enters Valid Credentials  **************
+2024-10-28 20:39:51,756 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:39:51,888 - eCommerce_v001 -INFO - ******* User Clicks On Logout  **************
+2024-10-28 20:39:55,336 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:39:55,338 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:39:56,919 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:39:56,920 - eCommerce_v001 -INFO - ******* User Enters Invalid Credentials  **************
+2024-10-28 20:39:57,983 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:40:00,218 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:40:00,227 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:40:01,617 - eCommerce_v001 -INFO - ******* User Clicks On Login *********
+2024-10-28 20:40:01,617 - eCommerce_v001 -INFO - ******* User Leaves Blank And Clicks On Enter  **************
+2024-10-28 20:40:02,976 - eCommerce_v001 -INFO - ******* User Clicks On LogInButton  **************
+2024-10-28 20:40:04,347 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:40:04,351 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:40:05,792 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:40:05,996 - eCommerce_v001 -INFO - ******* User Enter UserName and Password  **************
+2024-10-28 20:40:06,978 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:40:08,083 - eCommerce_v001 -INFO - ******* User Clicks On Login After Successful Login  **************
+2024-10-28 20:40:08,185 - eCommerce_v001 -INFO - ******* User Enters The Credentials  **************
+2024-10-28 20:40:08,947 - eCommerce_v001 -INFO - ******* User Clicks On LogIn Button  **************
+2024-10-28 20:40:09,047 - eCommerce_v001 -INFO - ******* User Clicks On Logout And Quit The Browser  **************
+2024-10-28 20:40:13,057 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:40:13,061 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:40:14,248 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:40:14,379 - eCommerce_v001 -INFO - ******* User Clicks On Signup And Enters The Credentials  **************
+2024-10-28 20:40:15,401 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Duplicate Credentials  **************
+2024-10-28 20:40:17,693 - eCommerce_v001 -INFO - ******* Launching browser *********
+2024-10-28 20:40:17,693 - eCommerce_v001 -INFO - ******* DemoBlaze Home Page *********
+2024-10-28 20:40:18,908 - eCommerce_v001 -INFO - ******* User Clicks On Singup  **************
+2024-10-28 20:40:20,055 - eCommerce_v001 -INFO - ******* User Clicks On Singup With Blank Credentials  **************
+2024-10-28 20:40:20,155 - eCommerce_v001 -INFO - ******* And User Gets Error Message  **************
